@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: e6855f85f703dc04286b6718621fc21e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dystopia_Weapon_Body_Mesh
+    100004: Dystopia_Weapon_Detail_01_Mesh
+    100006: Dystopia_Weapon_Detail_02_Mesh
+    100008: Dystopia_Weapon_Detail_03_Mesh
+    100010: Dystopia_Weapon_Magazine_Mesh
+    100012: "Dystopia_Weapon_Sigh\u0435_01_Mesh"
+    100014: "Dystopia_Weapon_Sigh\u0435_02_Mesh"
+    100016: Dystopia_Weapon_Trigger_Mesh
+    400000: //RootNode
+    400002: Dystopia_Weapon_Body_Mesh
+    400004: Dystopia_Weapon_Detail_01_Mesh
+    400006: Dystopia_Weapon_Detail_02_Mesh
+    400008: Dystopia_Weapon_Detail_03_Mesh
+    400010: Dystopia_Weapon_Magazine_Mesh
+    400012: "Dystopia_Weapon_Sigh\u0435_01_Mesh"
+    400014: "Dystopia_Weapon_Sigh\u0435_02_Mesh"
+    400016: Dystopia_Weapon_Trigger_Mesh
+    2100000: 23 - Default
+    2300000: Dystopia_Weapon_Body_Mesh
+    2300002: Dystopia_Weapon_Detail_01_Mesh
+    2300004: Dystopia_Weapon_Detail_02_Mesh
+    2300006: Dystopia_Weapon_Detail_03_Mesh
+    2300008: Dystopia_Weapon_Magazine_Mesh
+    2300010: "Dystopia_Weapon_Sigh\u0435_01_Mesh"
+    2300012: "Dystopia_Weapon_Sigh\u0435_02_Mesh"
+    2300014: Dystopia_Weapon_Trigger_Mesh
+    3300000: Dystopia_Weapon_Body_Mesh
+    3300002: Dystopia_Weapon_Detail_01_Mesh
+    3300004: Dystopia_Weapon_Detail_02_Mesh
+    3300006: Dystopia_Weapon_Detail_03_Mesh
+    3300008: Dystopia_Weapon_Magazine_Mesh
+    3300010: "Dystopia_Weapon_Sigh\u0435_01_Mesh"
+    3300012: "Dystopia_Weapon_Sigh\u0435_02_Mesh"
+    3300014: Dystopia_Weapon_Trigger_Mesh
+    4300000: Dystopia_Weapon_Body_Mesh
+    4300002: Dystopia_Weapon_Magazine_Mesh
+    4300004: Dystopia_Weapon_Detail_01_Mesh
+    4300006: "Dystopia_Weapon_Sigh\u0435_02_Mesh"
+    4300008: "Dystopia_Weapon_Sigh\u0435_01_Mesh"
+    4300010: Dystopia_Weapon_Trigger_Mesh
+    4300012: Dystopia_Weapon_Detail_02_Mesh
+    4300014: Dystopia_Weapon_Detail_03_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
